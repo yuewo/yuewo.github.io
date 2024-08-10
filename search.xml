@@ -138,4 +138,16 @@
         <tag>计算机</tag>
       </tags>
   </entry>
+  <entry>
+    <title>jikedao.github.io被屏蔽怎么办</title>
+    <url>/2024/08/10/jikedao-github-io%E8%A2%AB%E5%B1%8F%E8%94%BD%E6%80%8E%E4%B9%88%E5%8A%9E/</url>
+    <content><![CDATA[<h4 id="jikedao-github-io被屏蔽怎么办"><a href="#jikedao-github-io被屏蔽怎么办" class="headerlink" title="jikedao.github.io被屏蔽怎么办"></a>jikedao.github.io被屏蔽怎么办</h4><p>替代域名：jikedao.zeabur.app<br>等于说让zeabur.com绑定github上面的仓库，github更新时，zeabur也更新。<br>具体操作如下：<br>授权以后，点击创建项目，选择地区，不要选择后面有字的，选择没有字的，总共有两个，任意选择一个即可，然后选择从github部署，选择仓库。<br>设置域名在网络中，有两种，一种是自定义域名，一种是生成域名。</p>
+]]></content>
+      <categories>
+        <category>计算机</category>
+      </categories>
+      <tags>
+        <tag>计算机</tag>
+      </tags>
+  </entry>
 </search>
