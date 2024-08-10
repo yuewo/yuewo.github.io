@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>2024年7月21日 星期日 今天终于通过marscode创建了hexo</title>
+    <url>/2024/07/21/2024%E5%B9%B47%E6%9C%8821%E6%97%A5-%E6%98%9F%E6%9C%9F%E6%97%A5-%E4%BB%8A%E5%A4%A9%E7%BB%88%E4%BA%8E%E9%80%9A%E8%BF%87marscode%E5%88%9B%E5%BB%BA%E4%BA%86hexo/</url>
+    <content><![CDATA[<p>作者：海边的冬格列克<br>链接：<a href="https://www.zhihu.com/question/319817323/answer/2788035754">https://www.zhihu.com/question/319817323/answer/2788035754</a><br>来源：知乎<br>著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</p>
+<p>正常部署方式当github仓库、git、Hexo准备就绪，想把自己的内容推送到Github上时，通过GitHub网址 ，可见jlcxxzj,就可以愉快的访问时，一切都是那么简单，只需要：<br>一、建立本地项目和Github的连接打开Hexo项目根目录，右键打开git bash，然后输入自己的github账号信息命令：     bash     git config –global user.name “jlcxxzj”     git config –global user.email “<a href="mailto:&#x32;&#53;&#x34;&#49;&#x35;&#x39;&#55;&#52;&#x37;&#x33;&#64;&#113;&#x71;&#46;&#99;&#x6f;&#109;">&#x32;&#53;&#x34;&#49;&#x35;&#x39;&#55;&#52;&#x37;&#x33;&#64;&#113;&#x71;&#46;&#99;&#x6f;&#109;</a>“没有报错就说明用户信息是正确的，如果报错去Github设置看看自己的用户名和邮箱；接下来生成密钥SSH key，首先是确定要生成密钥的账户：     bash     ssh-keygen -t rsa -C “<a href="mailto:&#x32;&#53;&#52;&#x31;&#53;&#57;&#55;&#52;&#x37;&#51;&#x40;&#113;&#113;&#x2e;&#99;&#111;&#x6d;">&#x32;&#53;&#52;&#x31;&#53;&#57;&#55;&#52;&#x37;&#51;&#x40;&#113;&#113;&#x2e;&#99;&#111;&#x6d;</a>“     继续输入下面命令，会产生一个密钥，也可在本地的用户根目录下.ssh文件夹找到产生的密钥：     bash     cat ~/.ssh/id_rsa.pub生成密钥成功以后，打开github，在右上角头像下面点击settings，再点击SSH and GPG keys，新建一个SSH，名字任意，可按项目名称来，将第2步产生的密钥复制到框中，点击确定保存。在第1步右键打开的git bash下输入ssh -T <a href="mailto:&#x67;&#x69;&#116;&#64;&#x67;&#x69;&#116;&#x68;&#117;&#98;&#x2e;&#99;&#x6f;&#109;">&#x67;&#x69;&#116;&#64;&#x67;&#x69;&#116;&#x68;&#117;&#98;&#x2e;&#99;&#x6f;&#109;</a>，如果没有报错，出现你的用户名，那就成功了。<br>如果出现了这样的信息：<br>解决git连接问题: You‘ve successfully authenticated, but GitHub does not provide shell access.<br>解决办法：<br>“输入git remote set-url origin <a href="mailto:&#103;&#105;&#x74;&#x40;&#103;&#x69;&#x74;&#x68;&#117;&#98;&#x2e;&#99;&#x6f;&#109;">&#103;&#105;&#x74;&#x40;&#103;&#x69;&#x74;&#x68;&#117;&#98;&#x2e;&#99;&#x6f;&#109;</a>:名字/仓库名.git 命令后解决了”<br><strong>改完以后在_config.yml文件中一定也要改成上面的格式。</strong></p>
+]]></content>
+      <tags>
+        <tag>计算机</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2024年8月9日 星期五 基金加速割肉</title>
+    <url>/2024/08/09/2024%E5%B9%B48%E6%9C%889%E6%97%A5-%E6%98%9F%E6%9C%9F%E4%BA%94-%E5%9F%BA%E9%87%91%E5%8A%A0%E9%80%9F%E5%89%B2%E8%82%89/</url>
+    <content><![CDATA[<p>这两天看到一个报道。</p>
+<p>说基民正加速 “割肉”。。。</p>
+<p>然后还发出了一个灵魂拷问 “为何越跌越逃” ？</p>
+<p>我想这种“小学生”的问题，不用多问了吧。。</p>
+<p>买基金的人，不能说绝对，但大多还是不太懂市场里这些弯弯绕的。</p>
+<p>而这些人选了所谓的基金，求的其实也是稳健。</p>
+<p>本来想的是，直接买股风险太大了，还是买点基金吧。</p>
+<p>只要能稳步向上，哪怕慢一点也知足了。</p>
+<p>可没想到的是，近几年这些基金稳步向下持续走低。</p>
+<p>这样大的反差，让当时进场的资金已经绝望到底了。</p>
+<p>那么可以看一下，近几年基金买入最高峰的阶段，差不多应该是2021年初了吧？</p>
+<p>那个阶段炒的就是那些大市值里的“核心资产”。</p>
+<p>看看它们这几年的走势，一路向下持续走低，已经阴跌快4年了。</p>
+<p>别说这些高位拿了几年一路走低的坚持不住了。</p>
+<p>就是近一年的市场向下调整，才一年多的时间，大多数人都已经被恶心到要吐了。</p>
+<p>那么这里就有个问题了。</p>
+<p>为什么最疯狂的时候，这些资金愿意大举进场。</p>
+<p>又在难熬绝望的阶段，这些资金要割肉离场呢？</p>
+<p>如果反过来做（低迷时不断买入持有，疯了时彻底离场）的话，那么结果是不是就大不一样了？</p>
+<p>但大多数人其实还是挺难做到这些的。</p>
+<p>毕竟就算你能说服自己，也很难不被外界所影响。</p>
+<p>比如在座的各位，现在没人敢说自己炒股的了吧？</p>
+<p>生怕一个不留神，就被七大姑八大姨一顿输出。</p>
+<p>如果天天别人说你做的这件事是错的，我想定力再好的人，也很难继续再坚持下去了。</p>
+<p><strong>但市场就是这样，当大多数人说是机会，甚至加速进场的时候，那么离顶部也就不远了。</strong></p>
+<p><strong>而大多数人开始绝望，甚至加速割肉的时候，那么离底部也就不远了！</strong></p>
+<hr>
+<p>前几天说了一个—&gt;古怪的走势</p>
+<p>今天举个正面例子看看（如下图）</p>
+<p><img src="https://s3.bmp.ovh/imgs/2024/08/09/c377166394a69fee.webp"></p>
+<p>（虚线框）区域明显可以看出，跟随市场咔嚓一波后，并不像古怪的走势讲的那货一样反复拉扯“秀肌肉”。</p>
+<p>虽然也有波动，可无论从振幅还是成交量上看，都是比较温和的。</p>
+<p>如果没有之后的快速拉高，横竖怎么看都会觉得这货半死不活的“没前途”。</p>
+<p>也就是说，如果大资金想拉出更大的空间而不仅仅是短期自救的话。</p>
+<p>那么肯定会像司马懿一样卧薪尝胆，等待最恰当的时机突然展现实力。</p>
+<p>而不会像吕布一样，冲动鲁莽，四处挑衅，完全不顾可能带来的后果！<br>留言区：</p>
+<blockquote>
+<p>没有骂街呢，大家都不疼。钝刀子割肉，来个加速下跌，那声一片。就差不多了。底部最后一跌，让绝望的人立场，市场也就差不多了。</p>
+</blockquote>
+<hr>
+<blockquote>
+<p>虽然我持有的品种还是反复摩人。自选里面还是陆续的有品种起飞，最近一支我看盘整了六年，十天直接翻倍！所以如果没什么问题还是耐心持有等待发射！从中可以看出，股票大部分时间是不上涨的。因为一只票大多数时间都是下跌+盘整。只有极少数时间是甩开膀子向上发力。买在无人问津 卖在人声鼎沸。</p>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>stock</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Alist的布置</title>
+    <url>/2024/07/23/Alist%E7%9A%84%E5%B8%83%E7%BD%AE/</url>
+    <content><![CDATA[<h2 id="我的alist"><a href="#我的alist" class="headerlink" title="我的alist"></a>我的alist</h2><p>在后台管理面板新建一个端口，比如新建的端口号是45476，点击WWW Websites-点击Add website，新建一个自定义网站，类型选择proxy，端口就是刚刚新建的那个端口45476。</p>
+<p>也可用系统分配的二级域名，比如bin001.serv00.net，用系统分配的域名的话需要先删除掉，然后重新添加上，类型选proxy，端口就是刚刚新建的那个端口45476,系统分配的域名不用申请证书，如果是自定义域名的话就到SSL菜单，给自定义域名申请一下证书</p>
+<p>登录SSH<br>执行操作，cd到你的网站名字的文件夹，比如</p>
+<p>cd domains/ztest.serv00.net/<br>bash<br>新建一个文件夹</p>
+<p>mkdir alist<br>bash<br>然后输入ls，可以看到刚刚新建的alist文件夹，然后cd到alist文件夹</p>
+<p>cd alist<br>bash<br>一键安装alist脚本<br>复制下面的代码执行操作</p>
+<p>wget -O alist-freebsd.sh <a href="https://raw.githubusercontent.com/bin862324915/serv00-app/main/alist/alist-freebsd.sh">https://raw.githubusercontent.com/bin862324915/serv00-app/main/alist/alist-freebsd.sh</a> &amp;&amp; sh alist-freebsd.sh<br>bash<br>执行完成后会弹出对应的提示</p>
+<p>修改配置信息<br>先进入网页管理面板MySQL菜单，点击Add database新建数据库，填写好信息，保存备用，下面是数据库创建的示例信息，实际操作中填写为自己的即可</p>
+<p>Database name：m5022_alist<br>Username：m5022_alist<br>Password：Test240706<br>Plain text<br>从网页管理面板进入文件管理器file_manager，然后进入到刚刚部署的网站文件夹下的alist目录，比如/home/ztest/domains/ztest.serv00.net/alist/data/</p>
+<p>修改config.json文件的配置，只需要找到对应字段，修改对应字段的信息即可，其他配置信息不要删除或修改</p>
+<p>  “database”: {<br>    “type”: “sqlite3”,<br>    “host”: “”,<br>    “port”: 0,<br>    “user”: “”,<br>    “password”: “”,<br>    “name”: “”,<br>    “db_file”: “data/data.db”,<br>    “table_prefix”: “x_”,<br>    “ssl_mode”: “”,<br>    “dsn”: “”<br>  },<br>#将上面的这段配置的数据库信息修改成你自己的，比如修改成↓<br>  “database”: {<br>    “type”: “mysql”,<br>    “host”: “mysql6.serv00.com”,<br>    “port”: 3306,<br>    “user”: “m5022_alist”,<br>    “password”: “Test240706”,<br>    “name”: “m5022_alist”,<br>    “db_file”: “data/data.db”,<br>    “table_prefix”: “x_”,<br>    “ssl_mode”: “”,<br>    “dsn”: “”<br>  },</p>
+<hr>
+<p>“scheme”: {<br>    “address”: “0.0.0.0”,<br>    “http_port”: 5244,<br>    “https_port”: -1,<br>    “force_https”: false,<br>    “cert_file”: “”,<br>    “key_file”: “”,<br>    “unix_file”: “”,<br>    “unix_file_perm”: “”<br>  }<br>#将上面的这段配置的端口号修改成你自己的，比如修改成↓<br>  “scheme”: {<br>    “address”: “0.0.0.0”,<br>    “http_port”: 45476,<br>    “https_port”: -1,<br>    “force_https”: false,<br>    “cert_file”: “”,<br>    “key_file”: “”,<br>    “unix_file”: “”,<br>    “unix_file_perm”: “”<br>  }<br>json<br>修改好后点击Save保存。</p>
+<p>运行测试<br>回到SSH客户端，执行操作</p>
+<p>./alist server<br>bash<br>首次运行后会生成一个默认的密码，找到password后面的字符串就是默认密码，保存备用</p>
+<p>如果忘记密码可以使用以下指令重置密码</p>
+<h1 id="随机生成一个密码"><a href="#随机生成一个密码" class="headerlink" title="随机生成一个密码"></a>随机生成一个密码</h1><p>./alist admin random</p>
+<h1 id="手动设置一个密码-NEW-PASSWORD是指你需要设置的密码"><a href="#手动设置一个密码-NEW-PASSWORD是指你需要设置的密码" class="headerlink" title="手动设置一个密码,NEW_PASSWORD是指你需要设置的密码"></a>手动设置一个密码,<code>NEW_PASSWORD</code>是指你需要设置的密码</h1><p>./alist admin set NEW_PASSWORD<br>bash<br>进入浏览器，打开你刚刚部署的网站，比如<a href="https://bin001.serv00.net/%EF%BC%8C%E8%BE%93%E5%85%A5%E7%94%A8%E6%88%B7%E5%90%8Dadmin%EF%BC%8C%E5%AF%86%E7%A0%81%E6%98%AF%E5%88%9A%E5%88%9A%E7%94%9F%E6%88%90%E7%9A%84%E9%82%A3%E4%B8%AA%EF%BC%8C%E8%87%B3%E6%AD%A4%EF%BC%8C%E6%95%B4%E4%B8%AAalist%E7%9A%84%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2%E5%B0%B1%E5%88%B0%E6%AD%A4%E7%BB%93%E6%9D%9F%E4%BA%86,%E5%9C%A8SSH%E5%AE%A2%E6%88%B7%E7%AB%AF">https://bin001.serv00.net/，输入用户名admin，密码是刚刚生成的那个，至此，整个alist的安装部署就到此结束了,在SSH客户端</a> 按Ctrl + C，结束alist的运行</p>
+<p>后台运行<br>可以通过screen新建会话让alist保持在后台运行，执行操作</p>
+<p>screen -S alist /home/ztest/domains/ztest.serv00.net/alist/alist server<br>bash<br>执行后会新建一个screen会话运行alist</p>
+<p>可以在当前会话按下 Ctrl + A，然后按D，这会让你从当前 screen 会话中脱离，但 alist 程序仍会在后台运行。</p>
+<p>如果你需要重新连接到这个 screen 会话，可以使用以下命令：</p>
+<p>screen -r alist<br>bash<br>在网页管理面板进入Cron jobs菜单，点击Add cron job，新建一个脚本，然后在Command框中输入screen -S alist /home/ztest/domains/ztest.serv00.net/alist/alist server，然后点击Add，这样，当服务器重启的时候就会执行操作自动启动alist应用了</p>
+<p>screen -S alist /home/ztest/domains/ztest.serv00.net/alist/alist server</p>
+]]></content>
+      <tags>
+        <tag>计算机</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>markdown的使用</title>
+    <url>/2024/07/25/markdown%E7%9A%84%E4%BD%BF%E7%94%A8/</url>
+    <content><![CDATA[<h4 id="markdown的使用"><a href="#markdown的使用" class="headerlink" title="markdown的使用"></a>markdown的使用</h4><hr>
+<p>部分文字有背景<br>Use <code>git status</code> to list all new or modified files that haven’t yet been committed.<br><code>nihao</code><br>marscode 支持</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>网站笔记butterfly主题的设置基本知识</title>
+    <url>/2024/08/10/%E7%BD%91%E7%AB%99%E7%AC%94%E8%AE%B0butterfly%E4%B8%BB%E9%A2%98%E7%9A%84%E8%AE%BE%E7%BD%AE%E5%9F%BA%E6%9C%AC%E7%9F%A5%E8%AF%86/</url>
+    <content><![CDATA[<hr>
+<h4 id="网站笔记butterfly主题的设置基本知识"><a href="#网站笔记butterfly主题的设置基本知识" class="headerlink" title="网站笔记butterfly主题的设置基本知识"></a>网站笔记butterfly主题的设置基本知识</h4><blockquote>
+<p>menu:</p>
+</blockquote>
+<h1 id="Home-fas-fa-home"><a href="#Home-fas-fa-home" class="headerlink" title="Home: / || fas fa-home"></a>Home: / || fas fa-home</h1><h1 id="Archives-archives-fas-fa-archive"><a href="#Archives-archives-fas-fa-archive" class="headerlink" title="Archives: /archives/ || fas fa-archive"></a>Archives: /archives/ || fas fa-archive</h1><h1 id="Tags-tags-fas-fa-tags"><a href="#Tags-tags-fas-fa-tags" class="headerlink" title="Tags: /tags/ || fas fa-tags"></a>Tags: /tags/ || fas fa-tags</h1><h1 id="Categories-categories-fas-fa-folder-open"><a href="#Categories-categories-fas-fa-folder-open" class="headerlink" title="Categories: /categories/ || fas fa-folder-open"></a>Categories: /categories/ || fas fa-folder-open</h1><h1 id="List-fas-fa-list"><a href="#List-fas-fa-list" class="headerlink" title="List||fas fa-list:"></a>List||fas fa-list:</h1><h1 id="Music-music-fas-fa-music"><a href="#Music-music-fas-fa-music" class="headerlink" title="Music: /music/ || fas fa-music"></a>Music: /music/ || fas fa-music</h1><h1 id="Movie-movies-fas-fa-video"><a href="#Movie-movies-fas-fa-video" class="headerlink" title="Movie: /movies/ || fas fa-video"></a>Movie: /movies/ || fas fa-video</h1><h1 id="Link-link-fas-fa-link"><a href="#Link-link-fas-fa-link" class="headerlink" title="Link: /link/ || fas fa-link"></a>Link: /link/ || fas fa-link</h1><h1 id="About-about-fas-fa-heart"><a href="#About-about-fas-fa-heart" class="headerlink" title="About: /about/ || fas fa-heart"></a>About: /about/ || fas fa-heart</h1><p>这一部分设置的网站的菜单，ctrl+/可以渠道注释<br>Home 对应的是首页<br>Archives 对应的是归档<br>Tags 对应的是标签<br>Categories 对应的是分类<br>List 对应的是列表<br>Music 对应的是音乐<br>Movie 对应的是电影<br>Link 对应的是链接<br>About 对应的是关于</p>
+<hr>
+<p>这里面的首页，归档页面是自己生成的，但是其它页面需要自己创建，b站里面的视频讲解是错误的，用他的方法无法生成。<br>下面的文档可以<br><a href="https://blog.csdn.net/weixin_44904331/article/details/136150402">https://blog.csdn.net/weixin_44904331/article/details/136150402</a></p>
+<hr>
+<ol>
+<li>在Hexo根目录下，终端输入：<br>hexo new page tags<br>会生成source/tags/index.md文件，将type改为tags<br>具体代码如下：</li>
+</ol>
+<hr>
+<p>title: tags<br>date: 2024-02-03 15:23:21<br>type: “tags”</p>
+<hr>
+]]></content>
+      <tags>
+        <tag>计算机</tag>
+      </tags>
+  </entry>
+</search>
