@@ -153,7 +153,9 @@
   <entry>
     <title>图片的设置</title>
     <url>/2024/08/11/%E5%9B%BE%E7%89%87%E7%9A%84%E8%AE%BE%E7%BD%AE/</url>
-    <content><![CDATA[<p>如何不用图床设置自己的照片<br>/cloudide/workspace/hexo/source/images/111.webp<br><img src="/images/111.webp" alt="111.webp"></p>
+    <content><![CDATA[<p>如何不用图床设置自己的照片<br>在source中建立一个图片文件夹：images,把图片长传到这个文件夹，如下面：<br>/cloudide/workspace/hexo/source/images/111.webp</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">调用时候是这样的：</span><br><span class="line">![111.webp](/images/111.webp)</span><br></pre></td></tr></table></figure>
+<p><img src="/images/111.webp" alt="111.webp"></p>
 ]]></content>
       <categories>
         <category>计算机</category>
