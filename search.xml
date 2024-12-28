@@ -3711,4 +3711,17 @@
 <p>这是一个新的开始</p>
 ]]></content>
   </entry>
+  <entry>
+    <title>2024年12月28日 星期六 今天用cloudflare+picgo建一个图床</title>
+    <url>/2024/12/28/2024%E5%B9%B412%E6%9C%8828%E6%97%A5-%E6%98%9F%E6%9C%9F%E5%85%AD-%E4%BB%8A%E5%A4%A9%E7%94%A8cloudflare-picgo%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%9B%BE%E5%BA%8A/</url>
+    <content><![CDATA[<h4 id="picgo和cloudflare建立了一个图床"><a href="#picgo和cloudflare建立了一个图床" class="headerlink" title="picgo和cloudflare建立了一个图床"></a>picgo和cloudflare建立了一个图床</h4><hr>
+<p>经过了一番努力，终于把图床建好了，现在可以用picgo上传图片了，而且上传的图片也可以在网上看到，而且还可以用markdown语法插入图片，非常方便。<br>心理面有一点小激动。<br>可以看一下下面的图片：<br><img src="https://178518.xyz/PicGo/111.png"></p>
+]]></content>
+      <categories>
+        <category>计算机</category>
+      </categories>
+      <tags>
+        <tag>计算机</tag>
+      </tags>
+  </entry>
 </search>
